@@ -38,9 +38,12 @@ I am passionate about building robust backend systems, solving complex problems,
 
 ## 🏆 **Achievements**
 - **3\* on CodeChef**: Solved complex programming challenges under the handle [rahul5670](https://www.codechef.com/users/rahul5670).  
-- **Optimized API Performance**: Reduced response times from 30s to under 1s at Bynry Inc.  
-- **Built Scalable Systems**: Designed and delivered high-performing backend systems using Redis and PostgreSQL.  
-
+- **Optimized API Performance**: Successfully reduced API response times from 30 seconds to under 1 second at Bynry Inc. by implementing efficient SQL queries and Redis caching.  
+- **Built Scalable Systems**: Designed and delivered high-performing backend systems using Redis and PostgreSQL, enabling better task management and system reliability.  
+- **Awards and Recognition at Bynry Inc**:  
+  - Recognized for **Compliance and Product Quality**, ensuring delivery of robust and reliable software solutions.  
+  - Acknowledged for **Exhibiting Ownership** in taking full responsibility for critical modules and delivering results under tight deadlines.  
+  - Honored for **Delivering with Focus**, maintaining high standards of performance and dedication in every task undertaken.  
 ---
 
 ## 🌐 **Let's Connect**
@@ -59,4 +62,4 @@ I am passionate about building robust backend systems, solving complex problems,
 ---
 
 ## 🔍 **Contact Me**
-Feel free to reach out via [email](mailto:rahul.hiragond@mitaoe.ac.in) or connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-hiragond/) for collaboration opportunities or to discuss exciting projects!
+Feel free to reach out via [email](mailto:rahulhiragond04@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-hiragond/) for collaboration opportunities or to discuss exciting projects!
