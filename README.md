@@ -10,7 +10,7 @@ I am passionate about building robust backend systems, solving complex problems,
 - 💼 **Current Role**: Backend Developer at **Bynry Inc.**  
 - 💻 **Expertise**: Python, Django Rest Framework (DRF), Redis, PostgreSQL, Celery, and API performance optimization.  
 - 🌟 **DSA Enthusiast**: Actively solving algorithmic problems on [LeetCode](https://leetcode.com/rahul4257/), [CodeChef](https://www.codechef.com/users/rahul5670), and [Codeforces](https://codeforces.com/profile/rahul8990).  
-- 🌱 **Learning**: Expanding my horizons with **Golang** and diving deeper into frontend development.  
+- 🌱 **Learning**: Expanding my horizons with **Golang** and diving deeper into fullstack development.  
 
 ---
 
