@@ -1,34 +1,62 @@
-I am a Final Year B.Tech Student pursuing Computer Engineering at MIT Academy of Engineering, Pune.
+# 👋 Hello, I'm Rahul Hiragond!
 
-➡️ A passionate Full Stack Developer thriving in dynamic, collaborative environments, and experienced in technologies like 𝐀𝐧𝐠𝐮𝐥𝐚𝐫, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝐚𝐧𝐝 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒 for frontend development and 𝐍𝐨𝐝𝐞𝐉𝐒 for efficient backend solutions. 🚀
+### 🚀 **Backend Developer | Final Year B.Tech Student | Problem Solver**  
+I am passionate about building robust backend systems, solving complex problems, and continuously learning. Currently pursuing Computer Science and Engineering at **MIT Academy of Engineering, Pune**, I thrive on optimizing performance, developing scalable solutions, and embracing new challenges in software development.
 
-➡️ I have hands-on experience with 𝐀𝐖𝐒 services such as IAM, EC2, VPC, S3, Lambda, API Gateway, SNS, DynamoDB, and RDS, enabling scalable cloud integrations and utilizing CloudFormation for efficient infrastructure provisioning. ☁️
+---
 
-➡️ I am actively learning and practicing DSA problem-solving in 𝐂++. 🔥
+## 💡 **About Me**
+- 🎓 **Education**: Final Year B.Tech student at MIT Academy of Engineering, Pune.  
+- 💼 **Current Role**: Backend Developer at **Bynry Inc.**  
+- 💻 **Expertise**: Python, Django Rest Framework (DRF), Redis, PostgreSQL, Celery, and API performance optimization.  
+- 🌟 **DSA Enthusiast**: Actively solving algorithmic problems on [LeetCode](https://leetcode.com/rahul4257/), [CodeChef](https://www.codechef.com/users/rahul5670), and [Codeforces](https://codeforces.com/profile/rahul8990).  
+- 🌱 **Learning**: Expanding my horizons with **Golang** and diving deeper into frontend development.  
 
-➡️ Currently, I am working as a 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 at Bynry Inc. deepening my skills in RESTful API Integrartion, module development, frontend designs, and optimization while collaborating with cross-functional teams to enhance application features and improve user experience. 🌐
+---
 
-I am open to collaborating on projects and exploring work opportunities where I can contribute my skills, and learn and grow from others!
+## 🛠️ **Skills & Technologies**
+### **Backend Development**
+- Frameworks: Django Rest Framework (DRF)  
+- Databases: PostgreSQL, Redis  
+- Task Management: Celery, RabbitMQ, Crontab  
 
-<a href="https://www.linkedin.com/in/mohitjaiswal28/">
-  <img align="left" alt="Mohit's LinkdeIn" width="35px" src="https://img.icons8.com/color/2x/linkedin--v4.png" />
-</a>
+### **Frontend Basics**
+- Gaining exposure to React, Bootstrap, and JavaScript for full-stack capabilities.  
 
-<a href="https://twitter.com/mohitjaiswal28_">
-  <img align="left" alt="Mohit's Twitter" width="35px" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" />
-</a>
+### **Other Tools**
+- Version Control: Git, GitHub  
+- Cloud Integrations: Third-party APIs, asynchronous workflows  
 
-<a href="https://www.instagram.com/mohitjaiswal.28/">
-  <img align="left" alt="Mohit's Instagram" width="35px" src="https://img.icons8.com/color/2x/instagram-new.png" />
-</a>
+---
 
-<a href="https://mohitjaiswal.me/">
-  <img align="left" alt="Mohit's Instagram" width="35px" src="https://img.icons8.com/?size=512&id=103413&format=png" />
-</a>
-<br>
-<br>
+## 🎯 **Current Projects**
+1. **Microservice Architecture**: Developing modular solutions for log management and scalability.  
+2. **Activity Tracking System**: Implementing audit and business log tracking with efficient task scheduling.  
+3. **Learning Golang**: Exploring its features to enhance backend expertise.  
 
-# GitHub Stats 🔥
-![](https://github-readme-stats.vercel.app/api?username=mohitjaiswal28&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohitjaiswal28&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitjaiswal28&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
+
+## 🏆 **Achievements**
+- **3\* on CodeChef**: Solved complex programming challenges under the handle [rahul5670](https://www.codechef.com/users/rahul5670).  
+- **Optimized API Performance**: Reduced response times from 30s to under 1s at Bynry Inc.  
+- **Built Scalable Systems**: Designed and delivered high-performing backend systems using Redis and PostgreSQL.  
+
+---
+
+## 🌐 **Let's Connect**
+- [LinkedIn](https://www.linkedin.com/in/rahul-hiragond/)  
+- [GitHub](https://github.com/rahul4507)  
+- [Twitter](https://x.com/rahul7937)  
+- [LeetCode](https://leetcode.com/rahul4257/)  
+- [CodeChef](https://www.codechef.com/users/rahul5670)  
+
+---
+
+## 📊 **GitHub Stats**
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul4507&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul4507&layout=compact&theme=tokyonight)  
+
+---
+
+## 🔍 **Contact Me**
+Feel free to reach out via [email](mailto:rahul.hiragond@mitaoe.ac.in) or connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-hiragond/) for collaboration opportunities or to discuss exciting projects!
