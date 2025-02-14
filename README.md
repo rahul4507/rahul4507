@@ -1,65 +1,73 @@
-# 👋 Hello, I'm Rahul Hiragond!
+<h1 align="center">Hi 👋, I'm Rahul Hiragond</h1>
+<h2 align="center">Backend Developer | Final Year B.Tech Student | Problem Solver</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello! I'm Rahul Hiragond;Backend Developer 👨💻;Problem Solver 🧠;Continuous Learner 📚&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+</p>
 
-### 🚀 **Backend Developer | Final Year B.Tech Student | Problem Solver**  
-I am passionate about building robust backend systems, solving complex problems, and continuously learning. Currently pursuing Computer Science and Engineering at **MIT Academy of Engineering, Pune**, I thrive on optimizing performance, developing scalable solutions, and embracing new challenges in software development.
+<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
 
----
+- 🎓 Final Year B.Tech CSE Student at **MIT Academy of Engineering, Pune**
+- 💼 Backend Developer at **Bynry Inc.**
+- 🌱 Currently learning **Golang** and expanding fullstack capabilities
+- 💡 Passionate about **API optimization** and **scalable system design**
+- 📫 Reach me: **rahulhiragond04@gmail.com**
+- 📄 My Resume: [View PDF](https://drive.google.com/file/d/1DfzIqXCfVaIteZhoz-q9-4ohq6-WlZ3e/view?usp=sharing)
 
-## 💡 **About Me**
-- 🎓 **Education**: Final Year B.Tech student at MIT Academy of Engineering, Pune.  
-- 💼 **Current Role**: Backend Developer at **Bynry Inc.**  
-- 💻 **Expertise**: Python, Django Rest Framework (DRF), Redis, PostgreSQL, Celery, and API performance optimization.  
-- 🌟 **DSA Enthusiast**: Actively solving algorithmic problems on [LeetCode](https://leetcode.com/rahul4257/), [CodeChef](https://www.codechef.com/users/rahul5670), and [Codeforces](https://codeforces.com/profile/rahul8990).  
-- 🌱 **Learning**: Expanding my horizons with **Golang** and diving deeper into fullstack development.  
+<br/>
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rahul-hiragond/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://leetcode.com/rahul4257/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/rahul5670" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/>
+  </a>
+</p>
 
-## 🛠️ **Skills & Technologies**
-### **Backend Development**
-- Frameworks: Django Rest Framework (DRF)  
-- Databases: PostgreSQL, Redis  
-- Task Management: Celery, RabbitMQ, Crontab  
+## 🚀 Technical Arsenal
+<div align="center">
+ 
+ <div align="center"><h3 align="center">Backend Development</h3>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" align="center" alt="Python">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" align="center" alt="Django">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" align="center" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" align="center" alt="Redis">
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" align="center" alt="Celery">
+</div>
 
-### **Frontend Basics**
-- Gaining exposure to React, Bootstrap, and JavaScript for full-stack capabilities.  
+<div align="center"><h3 align="center">Tools & Technologies</h3>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" align="center" alt="Git">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" align="center" alt="Docker">
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" align="center" alt="RabbitMQ">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="Postman">
+</div>
+</div>
 
-### **Other Tools**
-- Version Control: Git, GitHub  
-- Cloud Integrations: Third-party APIs, asynchronous workflows  
+<hr/>
 
----
+<h2 align="center">📈 GitHub Analytics</h2>
+<p align="center">
+  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul4507&theme=tokyonight"/>
+</p>
 
-## 🎯 **Current Projects**
-1. **Microservice Architecture**: Developing modular solutions for log management and scalability.  
-2. **Activity Tracking System**: Implementing audit and business log tracking with efficient task scheduling.  
-3. **Learning Golang**: Exploring its features to enhance backend expertise.  
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahul4507&show_icons=true&theme=tokyonight"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul4507&layout=compact&theme=tokyonight"/>
+</p>
 
----
+## 🏆 Notable Achievements
+- Optimized API response times **from 30s to <1s** through query optimization and Redis caching
+- Awarded for **Compliance & Product Quality** at Bynry Inc.
+- **3★ CodeChef** (Handle: [rahul5670](https://www.codechef.com/users/rahul5670))
+- Developed scalable microservice architecture for enterprise solutions
 
-## 🏆 **Achievements**
-- **3\* on CodeChef**: Solved complex programming challenges under the handle [rahul5670](https://www.codechef.com/users/rahul5670).  
-- **Optimized API Performance**: Successfully reduced API response times from 30 seconds to under 1 second at Bynry Inc. by implementing efficient SQL queries and Redis caching.  
-- **Built Scalable Systems**: Designed and delivered high-performing backend systems using Redis and PostgreSQL, enabling better task management and system reliability.  
-- **Awards and Recognition at Bynry Inc**:  
-  - Recognized for **Compliance and Product Quality**, ensuring delivery of robust and reliable software solutions.  
-  - Acknowledged for **Exhibiting Ownership** in taking full responsibility for critical modules and delivering results under tight deadlines.  
-  - Honored for **Delivering with Focus**, maintaining high standards of performance and dedication in every task undertaken.  
----
+## 🔭 Current Focus
+- Implementing advanced task scheduling with Celery beat
+- Exploring Golang for high-performance backend systems
+- Enhancing fullstack capabilities with React & JavaScript
 
-## 🌐 **Let's Connect**
-- [LinkedIn](https://www.linkedin.com/in/rahul-hiragond/)  
-- [GitHub](https://github.com/rahul4507)  
-- [Twitter](https://x.com/rahul7937)  
-- [LeetCode](https://leetcode.com/rahul4257/)  
-- [CodeChef](https://www.codechef.com/users/rahul5670)  
-
----
-
-## 📊 **GitHub Stats**
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul4507&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul4507&layout=compact&theme=tokyonight)  
-
----
-
-## 🔍 **Contact Me**
-Feel free to reach out via [email](mailto:rahulhiragond04@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-hiragond/) for collaboration opportunities or to discuss exciting projects!
+<h3 align="center">🚀 Let's Build Something Amazing Together!</h3>
