@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Hiragond</h1>
 <h2 align="center">Backend Developer | Final Year B.Tech Student | Problem Solver</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello! I'm Rahul Hiragond;Backend Developer 👨💻;Problem Solver 🧠;Continuous Learner 📚&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Rahul+Hiragond;I+am+a+Backend+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Curious+to+learn+new+things+" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
@@ -22,9 +22,6 @@
   </a>
   <a href="https://leetcode.com/rahul4257/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-  </a>
-  <a href="https://www.codechef.com/users/rahul5670" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/>
   </a>
 </p>
 
