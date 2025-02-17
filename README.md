@@ -47,9 +47,9 @@
 <hr/>
 
 <h2 align="center">📈 GitHub Analytics</h2>
-<p align="center">
+<!-- <p align="center">
   <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul4507&theme=tokyonight"/>
-</p>
+</p> -->
 
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahul4507&show_icons=true&theme=tokyonight"/>
