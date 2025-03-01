@@ -11,7 +11,7 @@
 - 🌱 Currently learning **Golang** and expanding fullstack capabilities
 - 💡 Passionate about **API optimization** and **scalable system design**
 - 📫 Reach me: **rahulhiragond04@gmail.com**
-- 📄 My Resume: [View PDF]([https://drive.google.com/file/d/1DfzIqXCfVaIteZhoz-q9-4ohq6-WlZ3e/view?usp=sharing](https://drive.google.com/file/d/18stUgZF6gpYzoW9-j0wixLW2sFywXdas/view?usp=sharing)
+- 📄 My Resume: [View PDF](https://drive.google.com/file/d/18stUgZF6gpYzoW9-j0wixLW2sFywXdas/view?usp=sharing)
 
 <br/>
 
