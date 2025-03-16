@@ -66,5 +66,6 @@
 - Implementing advanced task scheduling with Celery beat
 - Exploring Golang for high-performance backend systems
 - Enhancing fullstack capabilities with React & JavaScript
+- Diving Deep in system design concepts following @arpit_bhayani.
 
 <h3 align="center">🚀 Let's Build Something Amazing Together!</h3>
