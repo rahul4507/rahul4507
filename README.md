@@ -15,7 +15,7 @@
 - 💡 Passionate about **API optimization** and **scalable system design**
 - 🚀 Improved API response times **from 30s to <1s** through optimization
 - 🏆 Recognized for **Compliance & Product Quality** at Bynry Inc.
-- 📄 [View My Resume](https://drive.google.com/file/d/18stUgZF6gpYzoW9-j0wixLW2sFywXdas/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1E16tX1mhQUaHF8p99tZe3oZ-SqFLd7-r/view?usp=sharing)
 
 <br/>
 
